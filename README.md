@@ -1,2 +1,2 @@
 # Blackjack
-Jogo de cartas, mais conhecido como 21, desenvolvido em java
+Atividade com a proposta de implementar em java o jogo de cartas Blackjack, mais conhecido como 21
